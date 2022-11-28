@@ -1,5 +1,5 @@
-#' @title t.test and boxplot for selected genes in the transcriptome gene count matrix
-#' @description t.test for selected genes in the transcriptome gene count matrix, generate boxplot for each gene
+#' @title t test and boxplot for selected genes in the transcriptome gene count matrix
+#' @description t test for selected genes in the transcriptome gene count matrix, generate boxplot for each gene
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 setwd(here::here())
