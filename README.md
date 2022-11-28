@@ -2,4 +2,4 @@
 
 - `Transcriptome_extract_annotate.R` - Extract gene of interest from transcriptome data and annotate gene name (gene count matrix)
 - `ColorScaleForEachRow` - Heatmap visualization for transcriptome data gene count matrix (or any other matrix) in Excel with VBA
-- `Transcriptome_t_test.R` - t.test for selected data in the transcriptome gene count matrix
+- `Transcriptome_t_test.R` - t.test for selected gene in the transcriptome gene count matrix
